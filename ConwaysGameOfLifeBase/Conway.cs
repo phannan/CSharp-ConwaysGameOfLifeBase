@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConwaysGameOfLifeBase
 {
-    class Program
+    class Conway
     {
         static void Main(string[] args)
         {
