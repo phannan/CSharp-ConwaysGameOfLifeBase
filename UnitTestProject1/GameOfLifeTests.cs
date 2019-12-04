@@ -4,12 +4,12 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace ConwaysTest
 {
     [TestClass]
-    public class UnitTest1
+    public class GameOfLifeTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Test1()
         {
-            throw new NotImplementedException();
+            Assert.AreEqual(1, 0);
         }
     }
 }
