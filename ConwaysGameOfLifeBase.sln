@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwaysGameOfLifeBase", "ConwaysGameOfLifeBase\ConwaysGameOfLifeBase.csproj", "{723DC717-E4BA-4D7F-B1CA-84CC3880AD5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwaysTest", "UnitTestProject1\ConwaysTest.csproj", "{35DAD205-21F4-47D6-843B-0D178BA369EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwaysTest", "GameOfLifeTests\ConwaysTest.csproj", "{35DAD205-21F4-47D6-843B-0D178BA369EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
